@@ -664,7 +664,7 @@ body {
     color: var(--color-cloud);
     
     background-color: var(--color-iris);
-    transition: transform var(--anim-fast);
+
 }
 
 .portfolio-list-title {
